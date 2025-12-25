@@ -70,6 +70,6 @@ More projects may be found in pinned repositories.
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hexcha&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hexcha&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ---
