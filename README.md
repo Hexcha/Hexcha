@@ -6,10 +6,10 @@ Aspiring Software Engineer — Backend, Systems, Security
 
 ## About
 
-I am a Computer Engineering student focused on writing clean, maintainable, and scalable code.  
+    I am a Computer Engineering student focused on writing clean, maintainable, and scalable code.  
 My primary interests include backend development, system programming, and understanding the internals of software.
 
-Currently, I am learning Cyber Security concepts and working on game engine development using C++.
+    Currently, I am learning Cyber Security concepts and working on game engine development using C++.
 
 LinkedIn  
 https://www.linkedin.com/in/taner-ayrancı-a4379b291/
@@ -62,13 +62,13 @@ https://www.linkedin.com/in/taner-ayrancı-a4379b291/
 ## Selected Projects
 
 ### Bezier Curve Visualizer
-Creative coding experiment exploring Bezier curve rendering and motion flow using p5.js.
+    Creative coding experiment exploring Bezier curve rendering and motion flow using p5.js.
 
 ### FlexTask – ASP.NET Core MVC
-A structured backend-driven task management application built using MVC and Entity Framework Core.
+    A structured backend-driven task management application built using MVC and Entity Framework Core.
 
 ### Snake Game and Calculator (Java)
-Early-stage projects demonstrating fundamental problem-solving and Java GUI experience.
+    Early-stage projects demonstrating fundamental problem-solving and Java GUI experience.
 
 More projects may be found in pinned repositories.
 
