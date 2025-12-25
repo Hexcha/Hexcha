@@ -1,9 +1,3 @@
-# Taner Ayrancı
-Computer Engineering Student  
-Aspiring Software Engineer — Backend, Systems, Security
-
----
-
 ## About
 
     I am a Computer Engineering student focused on writing clean, maintainable, and scalable code.  
